@@ -1,2 +1,2 @@
-# Match
+# FindYou
 Dating App for iOS
