@@ -2,7 +2,7 @@ import SwiftUI
 import Firebase
 
 @main
-struct DatingAppApp: App {
+struct FindYouApp: App {
     @StateObject var authViewModel = AuthViewModel()
 
     init() {
